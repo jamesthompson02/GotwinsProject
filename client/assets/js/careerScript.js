@@ -381,13 +381,6 @@ function fetchPosts() {
 
 fetchPosts();
 
-// submitBtnCareer.addEventListener('click', (e) => {
-//     e.preventDefault();
-//     setTimeout(() => {
-//         window.location.reload();
-//     }, 1000);
-
-// }) 
 
 submitBtnCareer.addEventListener('click', (e) => {
     e.preventDefault();  
